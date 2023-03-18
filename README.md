@@ -18,7 +18,10 @@ Welcome to Git Hero 2023 !!
 
 ## Tips
 *Google, ChatGPT, git log and git status* are your best tools in the box.
+
 **May the Force be with you!!!**
+
+![](https://user-images.githubusercontent.com/96137168/226101488-1c572555-6ac6-44cf-a214-f57f53895840.gif)
 
 ## Git Commands Visualized :
 1. [Visualize Through Git ](https://learngitbranching.js.org)
