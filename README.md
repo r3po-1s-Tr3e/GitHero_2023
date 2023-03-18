@@ -1,10 +1,9 @@
-# Fork your way to victory with GIT !
-## IIT Mandi Git Hero 2022
-We welcome you all to Git Hero 2022
+# IIT Mandi Git Hero 2023 ( Fork your way to victory with GIT! )
+We welcome you all to Git Hero 2023
 
 
 ## Plot
-There are two friends, Paddu and Vicku (you know who they are ;P).
+Deanu and Behu are two ecil supervillians hell bent on destro  (you know who they are ;P).
 
 Hint: Paddu is a pro level comder while Vicku is a graphic designing gawd.
 
