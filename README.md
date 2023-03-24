@@ -19,6 +19,9 @@ Welcome to Git Hero 2023 !!
 ## Tips
 *Google, ChatGPT, git log and git status* are your best tools in the box.
 
+![download (1)](https://user-images.githubusercontent.com/96137168/227590735-7a396135-f910-4ac5-8002-e70f2df94bae.jpeg)
+
+
 **May the Force be with you!!!**
 
 ![](https://user-images.githubusercontent.com/96137168/226101488-1c572555-6ac6-44cf-a214-f57f53895840.gif)
