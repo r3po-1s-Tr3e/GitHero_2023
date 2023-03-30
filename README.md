@@ -1,4 +1,4 @@
-# IIT Mandi Git Hero 2023 - Git Gud with Git 
+# IIT Mandi Git Hero 2023 - Get Gud with Git 
 
 Welcome to Git Hero 2023 !! 
 
